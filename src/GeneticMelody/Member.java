@@ -1,4 +1,4 @@
-package seniorproject;
+package GeneticMelody;
 import java.util.ArrayList;
 import java.util.List;
 import org.jfugue.theory.Note;

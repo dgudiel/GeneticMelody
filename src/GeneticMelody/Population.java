@@ -1,4 +1,4 @@
-package seniorproject;
+package GeneticMelody;
 import java.util.Random;
 import org.jfugue.theory.Note;
 

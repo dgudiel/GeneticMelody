@@ -1,4 +1,4 @@
-package seniorproject;
+package GeneticMelody;
 import static java.lang.Math.abs;
 import java.util.Arrays;
 import java.util.List;
